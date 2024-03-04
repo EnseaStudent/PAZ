@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1.2 (64-bit)
+# SW Build 2615518 on Fri Aug  9 15:55:25 MDT 2019
+# IP Build 2614745 on Fri Aug  9 20:55:02 MDT 2019
+# Start of session at: Wed Jan 31 12:07:59 2024
+# Process ID: 14308
+# Current directory: C:/Users/wilahass35/Downloads/project_2/project_2.runs/impl_1
+# Command line: vivado.exe -log chrono4BT_TI.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source chrono4BT_TI.tcl -notrace
+# Log file: C:/Users/wilahass35/Downloads/project_2/project_2.runs/impl_1/chrono4BT_TI.vdi
+# Journal file: C:/Users/wilahass35/Downloads/project_2/project_2.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source chrono4BT_TI.tcl -notrace
