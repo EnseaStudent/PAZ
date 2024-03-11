@@ -2,7 +2,7 @@
 
 ## (c) By HASSANI /EL BAKKALI / GRAJA
 
-Bienvenue ! 
+Bienvenue sur notre Journal de Bord pour notre Projet PAZ (Procédure. Autothentification. Zombie.)
 
 
 ### Séance 2 : 04/03/24
