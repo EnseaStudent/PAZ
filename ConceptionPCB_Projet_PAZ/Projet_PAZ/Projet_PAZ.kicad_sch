@@ -1691,6 +1691,7 @@
   (no_connect (at 98.425 175.895) (uuid 1b04d597-9b20-46c6-9f6a-7a3e5025d3ea))
   (no_connect (at 81.28 122.555) (uuid 2a77387f-116a-4049-8567-9bd6e210485b))
   (no_connect (at 38.1 35.56) (uuid 4ac56f77-c901-40dc-8b4f-4a504b0bd68d))
+  (no_connect (at 167.64 127.635) (uuid 617f3171-4bcf-4f62-b62e-7a9823dd2d25))
   (no_connect (at 81.28 111.125) (uuid 61d6bcd8-cb2a-4764-bcde-a9212a081679))
   (no_connect (at 98.425 168.275) (uuid 6775e743-da87-4b14-b226-55def4731b10))
   (no_connect (at 81.28 114.935) (uuid 80cd2d9c-5852-4c16-bcd4-2bee155c868a))
@@ -1699,6 +1700,7 @@
   (no_connect (at 85.725 178.435) (uuid 875ebb5d-3fc6-45f6-b2bc-936ec71acec4))
   (no_connect (at 254.635 102.235) (uuid 9eb1f063-2d22-46b1-94cd-2a3e92a8ffd8))
   (no_connect (at 239.395 102.235) (uuid a507e979-2a56-4988-98be-f62340e6be6d))
+  (no_connect (at 167.64 130.175) (uuid e3c255cf-4a1b-4fd8-b861-9be3fa469971))
   (no_connect (at 98.425 178.435) (uuid f836a351-7956-4e57-8fe1-103e6fb7b1bc))
   (no_connect (at 81.28 126.365) (uuid fab9b7ef-5d15-45d6-b436-e0be1f7f3a89))
 
@@ -3195,33 +3197,6 @@
       (project "Projet_PAZ"
         (path "/2ce892fe-c082-4bae-b2dd-3c3e6d69cf95"
           (reference "#FLG02") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Connector_Generic:Conn_01x03") (at 278.765 173.355 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 3dc2155b-f237-4238-aa58-543bf95cd902)
-    (property "Reference" "J7" (at 281.305 172.085 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "Conn_01x03" (at 281.305 174.625 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "" (at 278.765 173.355 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 278.765 173.355 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid e464c0dc-62bb-4552-a4b3-39edea3f90e1))
-    (pin "2" (uuid aea31af0-7372-45b3-abe1-2d9875eec892))
-    (pin "3" (uuid 8dceb0c9-bc75-40b9-910a-5bfc40619044))
-    (instances
-      (project "Projet_PAZ"
-        (path "/2ce892fe-c082-4bae-b2dd-3c3e6d69cf95"
-          (reference "J7") (unit 1)
         )
       )
     )
