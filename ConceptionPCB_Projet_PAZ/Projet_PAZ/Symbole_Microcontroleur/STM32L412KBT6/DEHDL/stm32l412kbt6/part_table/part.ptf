@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'STM32L412KBT6'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "STM32L412KBT6" (!) = "", "QFP80P900X900X160-32N", "Quad Flat Packages", "511-STM32L412KBT6", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32L412KBT6?qs=%252BEew9%252B0nqrD6o08jV%2F00TA%3D%3D", "ARM Microcontrollers - MCU Ultra-low-power Arm Cortex -M4 32-bit MCU+FPU, 100DMIPS up to 128KB Flash, 40KB SRAM, analog, ext. SMPS", "", "1.6 mm"
+END_PART
+
+END.
