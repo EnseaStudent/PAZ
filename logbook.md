@@ -22,6 +22,6 @@ _Tâches_ :
 (NB : Après l'intervention de notre Professeur, nous devons abandonner l'écran TFT, nous devons se pencher sur un écran LDC ou OLED)
 
 _Tâches_ :
-  * YOUSSEF : Trouver l'écran LC ou OLED
-  * SAID : Fonctionnement des capteurs
-  * WILAL : Conception du PCB
+  * YOUSSEF : Trouver l'écran LCD ou OLED et comprendre son fonctonnement
+  * SAID : Fonctionnement des capteurs + mise en place de l'IDE
+  * WILAL : Concrétisation du schéma du PCB + Routage
