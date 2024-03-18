@@ -17,3 +17,11 @@ _Tâches_ :
   * YOUSSEF : Fonctionnement de l'écran TFT
   * SAID : Fonctionnement des capteurs
   * WILAL : Conception du PCB
+
+### Séance 4 : 18/03/24
+(NB : Après l'intervention de notre Professeur, nous devons abandonner l'écran TFT, nous devons se pencher sur un écran LDC ou OLED)
+
+_Tâches_ :
+  * YOUSSEF : Trouver l'écran LC ou OLED
+  * SAID : Fonctionnement des capteurs
+  * WILAL : Conception du PCB
