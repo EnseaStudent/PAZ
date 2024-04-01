@@ -326,6 +326,34 @@
     [
       "2ce892fe-c082-4bae-b2dd-3c3e6d69cf95",
       ""
+    ],
+    [
+      "f29a6b29-c209-4f43-a9e3-127a220aa868",
+      "Microcontrôleur STM32"
+    ],
+    [
+      "4a8c1952-091f-40ac-9e87-dbf25fbdc56d",
+      "Capteur d'humidité, de pulsation, de température"
+    ],
+    [
+      "2acaa071-a446-4632-9f52-d17d56c253c5",
+      "Trou de fixation"
+    ],
+    [
+      "2766b73e-75e9-498f-b50e-3741c0db6e6f",
+      "Ecran Oled"
+    ],
+    [
+      "bad53945-c327-4087-9d50-3e3b96d2ebf0",
+      "Boutons poussoirs"
+    ],
+    [
+      "731ca450-9012-447c-8f9b-f8347ab7575e",
+      "Buzzer"
+    ],
+    [
+      "83cc595a-d23e-459b-b3bb-8da3b148994f",
+      "Connecteur SWD"
     ]
   ],
   "text_variables": {}
