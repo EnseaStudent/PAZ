@@ -47,4 +47,20 @@ Specs :
 - Prise de décision /2
 
 ### Séance 5 : 25/03/24
-A venir...
+_Tâches_ :
+  * YOUSSEF : Changement d'écran IHM (Passage sur écran OLED) + mise en place du code d'affichage
+  * SAID : Fonctionnement des capteurs
+  * WILAL : Finalisation du PCB
+
+### Séance 6 : 22/04/24
+_Tâches_ :
+  * YOUSSEF : Développement de l'IHM + prise de décision avec un bouton
+  * SAID : Traitement des données des capteurs
+  * WILAL : PCB finalisé et terminé + mise en place du soudage des composants CMS
+
+### Séance 7 : 29/04/24
+_Tâches_ :
+  * YOUSSEF : Codage + prise de décision avec deux bouton
+  * SAID : Traitement des données des capteurs 
+  * WILAL : Soudage composants CMS
+
